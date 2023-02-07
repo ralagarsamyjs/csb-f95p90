@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://ralagarsamyjs.github.io/csb-f95p90/static/css/main.21e7b426.chunk.css",
+    "main.js": "https://ralagarsamyjs.github.io/csb-f95p90/static/js/main.1dff6730.chunk.js",
+    "main.js.map": "https://ralagarsamyjs.github.io/csb-f95p90/static/js/main.1dff6730.chunk.js.map",
+    "runtime-main.js": "https://ralagarsamyjs.github.io/csb-f95p90/static/js/runtime-main.d76b5ca0.js",
+    "runtime-main.js.map": "https://ralagarsamyjs.github.io/csb-f95p90/static/js/runtime-main.d76b5ca0.js.map",
+    "static/css/2.1d053582.chunk.css": "https://ralagarsamyjs.github.io/csb-f95p90/static/css/2.1d053582.chunk.css",
+    "static/js/2.505eeb46.chunk.js": "https://ralagarsamyjs.github.io/csb-f95p90/static/js/2.505eeb46.chunk.js",
+    "static/js/2.505eeb46.chunk.js.map": "https://ralagarsamyjs.github.io/csb-f95p90/static/js/2.505eeb46.chunk.js.map",
+    "index.html": "https://ralagarsamyjs.github.io/csb-f95p90/index.html",
+    "static/css/2.1d053582.chunk.css.map": "https://ralagarsamyjs.github.io/csb-f95p90/static/css/2.1d053582.chunk.css.map",
+    "static/css/main.21e7b426.chunk.css.map": "https://ralagarsamyjs.github.io/csb-f95p90/static/css/main.21e7b426.chunk.css.map",
+    "static/js/2.505eeb46.chunk.js.LICENSE.txt": "https://ralagarsamyjs.github.io/csb-f95p90/static/js/2.505eeb46.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "https://ralagarsamyjs.github.io/csb-f95p90/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d76b5ca0.js",
+    "static/css/2.1d053582.chunk.css",
+    "static/js/2.505eeb46.chunk.js",
+    "static/css/main.21e7b426.chunk.css",
+    "static/js/main.1dff6730.chunk.js"
+  ]
+}
